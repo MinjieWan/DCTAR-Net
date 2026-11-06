@@ -1,4 +1,4 @@
-# STDF-Net
+# DCTAR-Net
 
 Official PyTorch implementation of DCTAR-Net.
 
